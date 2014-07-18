@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MatrixRotation\MatrixRotation\bin\Debug\MatrixRotation.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MatrixRotation\MatrixRotation\bin\Debug\MatrixRotation.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MatrixRotation\MatrixRotation\bin\Debug\MatrixRotation.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MatrixRotation\MatrixRotation\obj\Debug\MatrixRotation.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MatrixRotation\MatrixRotation\obj\Debug\MatrixRotation.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MatrixRotation\MatrixRotation\obj\Debug\MatrixRotation.csprojResolveAssemblyReference.cache

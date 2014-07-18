@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CompressString\CompressString\bin\Debug\CompressString.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CompressString\CompressString\bin\Debug\CompressString.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CompressString\CompressString\bin\Debug\CompressString.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CompressString\CompressString\obj\Debug\CompressString.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CompressString\CompressString\obj\Debug\CompressString.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CompressString\CompressString\obj\Debug\CompressString.pdb

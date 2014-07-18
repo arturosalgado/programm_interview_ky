@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressString", "CompressString\CompressString.csproj", "{9BE5F157-7503-4CB7-B86A-78862DCDCB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE5F157-7503-4CB7-B86A-78862DCDCB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE5F157-7503-4CB7-B86A-78862DCDCB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE5F157-7503-4CB7-B86A-78862DCDCB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE5F157-7503-4CB7-B86A-78862DCDCB30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

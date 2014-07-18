@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ReplaceChars\ReplaceChars\bin\Debug\ReplaceChars.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ReplaceChars\ReplaceChars\bin\Debug\ReplaceChars.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ReplaceChars\ReplaceChars\bin\Debug\ReplaceChars.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.pdb

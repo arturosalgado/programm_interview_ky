@@ -1,0 +1,5 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation\StringPermutation\bin\Debug\StringPermutation.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation\StringPermutation\bin\Debug\StringPermutation.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation\StringPermutation\bin\Debug\StringPermutation.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation\StringPermutation\obj\Debug\StringPermutation.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation\StringPermutation\obj\Debug\StringPermutation.pdb

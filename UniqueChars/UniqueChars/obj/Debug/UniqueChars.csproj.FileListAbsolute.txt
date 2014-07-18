@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\UniqueChars\UniqueChars\bin\Debug\UniqueChars.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\UniqueChars\UniqueChars\bin\Debug\UniqueChars.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\UniqueChars\UniqueChars\bin\Debug\UniqueChars.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\UniqueChars\UniqueChars\obj\Debug\UniqueChars.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\UniqueChars\UniqueChars\obj\Debug\UniqueChars.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\UniqueChars\UniqueChars\obj\Debug\UniqueChars.pdb
