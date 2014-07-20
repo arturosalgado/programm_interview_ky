@@ -1,1 +1,6 @@
 C:\Users\joangeles\Documents\Visual Studio 2012\Projects\NullyfyMatrix\NullyfyMatrix\bin\Debug\NullyfyMatrix.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\NullyfyMatrix\NullyfyMatrix\obj\Debug\NullyfyMatrix.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\NullyfyMatrix\NullyfyMatrix\bin\Debug\NullyfyMatrix.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\NullyfyMatrix\NullyfyMatrix\bin\Debug\NullyfyMatrix.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\NullyfyMatrix\NullyfyMatrix\obj\Debug\NullyfyMatrix.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\NullyfyMatrix\NullyfyMatrix\obj\Debug\NullyfyMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation2\StringPermutation2\bin\Debug\StringPermutation2.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation2\StringPermutation2\bin\Debug\StringPermutation2.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation2\StringPermutation2\bin\Debug\StringPermutation2.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation2\StringPermutation2\obj\Debug\StringPermutation2.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation2\StringPermutation2\obj\Debug\StringPermutation2.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\StringPermutation2\StringPermutation2\obj\Debug\StringPermutation2.pdb
