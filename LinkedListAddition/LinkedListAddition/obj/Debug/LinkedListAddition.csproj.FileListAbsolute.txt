@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LinkedListAddition\LinkedListAddition\bin\Debug\LinkedListAddition.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LinkedListAddition\LinkedListAddition\bin\Debug\LinkedListAddition.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LinkedListAddition\LinkedListAddition\bin\Debug\LinkedListAddition.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LinkedListAddition\LinkedListAddition\obj\Debug\LinkedListAddition.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LinkedListAddition\LinkedListAddition\obj\Debug\LinkedListAddition.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LinkedListAddition\LinkedListAddition\obj\Debug\LinkedListAddition.pdb

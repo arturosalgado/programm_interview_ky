@@ -40,16 +40,21 @@ namespace LinkedLists
             //n = removeDuplicates(n);
             //Console.WriteLine("second print");
             
-            Console.WriteLine("Second Method");
+            //Console.WriteLine("Second Method");
            
-            Node n = createList(t);
-            print(n);
-            n = removeDuplicates3(n);
+            //Node n = createList(t);
+            //print(n);
+            ///int r = KthToLast(n,3);
 
-            print(n);
+//            Console.WriteLine(r);
 
+  //          Console.ReadKey();
+
+
+            int[] a = { 5, 8, 9 };
+            Node p = create2(a);
+            print(p);
             Console.ReadKey();
-
         }
 
         static Node createList(int[]list)
@@ -217,9 +222,58 @@ namespace LinkedLists
             }
             Console.WriteLine("");
         }
-        
 
+
+
+
+        static Node create2(int[] a)
+        {
+            Node head=null;
+            Node temp = null;
+            for (int i = 0; i < a.Length; i++)
+            {
+                Node n = new Node(a[i]);
+                if (head == null)
+                {
+
+                    head = n;
+
+                }
+                else {
+
+                    temp = head;
+                    head = n;
+                    n.next = temp;
+                   
+                
+                }
+            
+            }
+
+            return head;
         
+        }
+
+
+        //it is in the stack where you actually count 
+        static int KthToLast(Node n,int k)
+        {
+
+            if (n == null)
+                return 0;
+            else
+            {
+                int r =  1 + KthToLast(n.next,k);
+                if (r == k)
+                {
+                    Console.WriteLine("Found it is {0}",n.value);
+                }
+                return r;
+            }
+        
+        }
+
+       
 
     }
 }

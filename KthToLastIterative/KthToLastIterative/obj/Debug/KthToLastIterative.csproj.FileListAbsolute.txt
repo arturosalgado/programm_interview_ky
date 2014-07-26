@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KthToLastIterative\KthToLastIterative\bin\Debug\KthToLastIterative.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KthToLastIterative\KthToLastIterative\bin\Debug\KthToLastIterative.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KthToLastIterative\KthToLastIterative\bin\Debug\KthToLastIterative.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KthToLastIterative\KthToLastIterative\obj\Debug\KthToLastIterative.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KthToLastIterative\KthToLastIterative\obj\Debug\KthToLastIterative.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KthToLastIterative\KthToLastIterative\obj\Debug\KthToLastIterative.pdb

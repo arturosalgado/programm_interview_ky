@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinarySearchIterative\BinarySearchIterative\bin\Debug\BinarySearchIterative.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinarySearchIterative\BinarySearchIterative\bin\Debug\BinarySearchIterative.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinarySearchIterative\BinarySearchIterative\bin\Debug\BinarySearchIterative.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinarySearchIterative\BinarySearchIterative\obj\Debug\BinarySearchIterative.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinarySearchIterative\BinarySearchIterative\obj\Debug\BinarySearchIterative.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinarySearchIterative\BinarySearchIterative\obj\Debug\BinarySearchIterative.csprojResolveAssemblyReference.cache
