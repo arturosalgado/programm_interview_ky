@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeStack", "PalindromeStack\PalindromeStack.csproj", "{DA42B98E-08F9-40F9-8277-E6DFB5884588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA42B98E-08F9-40F9-8277-E6DFB5884588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA42B98E-08F9-40F9-8277-E6DFB5884588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA42B98E-08F9-40F9-8277-E6DFB5884588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA42B98E-08F9-40F9-8277-E6DFB5884588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

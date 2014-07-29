@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\PalindromeStack\PalindromeStack\bin\Debug\PalindromeStack.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\PalindromeStack\PalindromeStack\obj\Debug\PalindromeStack.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\PalindromeStack\PalindromeStack\bin\Debug\PalindromeStack.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\PalindromeStack\PalindromeStack\bin\Debug\PalindromeStack.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\PalindromeStack\PalindromeStack\obj\Debug\PalindromeStack.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\PalindromeStack\PalindromeStack\obj\Debug\PalindromeStack.pdb

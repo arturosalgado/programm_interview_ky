@@ -11,15 +11,39 @@ namespace BinarySearchIterative
         static void Main(string[] args)
         {
             int[] a = { 1,4,10,15,20 };
-            Console.WriteLine("found {0}, send {1}", binarySearch(a, 10),10);
-            Console.WriteLine("found {0}, send {1}", binarySearch(a, 15),15);
-            Console.WriteLine("found {0}, send {1}", binarySearch(a, 1),1);
-            Console.WriteLine("found {0}, send {1}", binarySearch(a, 5),5);
+
+         
+           Console.WriteLine("{0}", binarySearchR(a, 1, 0, 5));
+           Console.WriteLine("{0}", binarySearchR(a, 4, 0, 5));
+           Console.WriteLine("{0}", binarySearchR(a, 10, 0, 5));
+           Console.WriteLine("{0}", binarySearchR(a, 15, 0, 5));
+           Console.WriteLine("{0}", binarySearchR(a, 20, 0, 5));
+           Console.WriteLine("{0}", binarySearchR(a, 30, 0, 4));
 
             
 
             Console.ReadKey();
         }
+
+        static int binarySearchR(int[] a, int k, int low, int high )
+        {
+            if (high < low) {
+                return -1;
+            }
+            int mid = low + (high - low) / 2;
+            if (a[mid] > k)
+            {
+               return binarySearchR(a,k,low,mid-1);
+            }
+            else if (a[mid] < k)
+            {
+                return binarySearchR(a, k, mid + 1, high);
+            }
+            else {
+                return mid;
+            }
+        }
+
         static int binarySearch(int[] a, int k)
         {
 

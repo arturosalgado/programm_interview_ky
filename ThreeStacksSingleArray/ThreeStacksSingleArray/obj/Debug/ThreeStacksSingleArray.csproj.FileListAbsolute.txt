@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ThreeStacksSingleArray\ThreeStacksSingleArray\bin\Debug\ThreeStacksSingleArray.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ThreeStacksSingleArray\ThreeStacksSingleArray\bin\Debug\ThreeStacksSingleArray.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ThreeStacksSingleArray\ThreeStacksSingleArray\bin\Debug\ThreeStacksSingleArray.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ThreeStacksSingleArray\ThreeStacksSingleArray\obj\Debug\ThreeStacksSingleArray.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ThreeStacksSingleArray\ThreeStacksSingleArray\obj\Debug\ThreeStacksSingleArray.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\ThreeStacksSingleArray\ThreeStacksSingleArray\obj\Debug\ThreeStacksSingleArray.pdb

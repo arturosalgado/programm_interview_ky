@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TowersOfHannoi\TowersOfHannoi\bin\Debug\TowersOfHannoi.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TowersOfHannoi\TowersOfHannoi\obj\Debug\TowersOfHannoi.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TowersOfHannoi\TowersOfHannoi\bin\Debug\TowersOfHannoi.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TowersOfHannoi\TowersOfHannoi\bin\Debug\TowersOfHannoi.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TowersOfHannoi\TowersOfHannoi\obj\Debug\TowersOfHannoi.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TowersOfHannoi\TowersOfHannoi\obj\Debug\TowersOfHannoi.pdb

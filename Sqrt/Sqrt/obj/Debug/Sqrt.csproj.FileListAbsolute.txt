@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\Sqrt\Sqrt\bin\Debug\Sqrt.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\Sqrt\Sqrt\bin\Debug\Sqrt.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\Sqrt\Sqrt\bin\Debug\Sqrt.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\Sqrt\Sqrt\obj\Debug\Sqrt.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\Sqrt\Sqrt\obj\Debug\Sqrt.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\Sqrt\Sqrt\obj\Debug\Sqrt.pdb
