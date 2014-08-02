@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\IsTheTreeBalanced\IsTheTreeBalanced\bin\Debug\IsTheTreeBalanced.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\IsTheTreeBalanced\IsTheTreeBalanced\bin\Debug\IsTheTreeBalanced.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\IsTheTreeBalanced\IsTheTreeBalanced\bin\Debug\IsTheTreeBalanced.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\IsTheTreeBalanced\IsTheTreeBalanced\obj\Debug\IsTheTreeBalanced.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\IsTheTreeBalanced\IsTheTreeBalanced\obj\Debug\IsTheTreeBalanced.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\IsTheTreeBalanced\IsTheTreeBalanced\obj\Debug\IsTheTreeBalanced.pdb

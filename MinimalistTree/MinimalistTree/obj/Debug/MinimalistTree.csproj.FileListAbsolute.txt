@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MinimalistTree\MinimalistTree\bin\Debug\MinimalistTree.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MinimalistTree\MinimalistTree\bin\Debug\MinimalistTree.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MinimalistTree\MinimalistTree\bin\Debug\MinimalistTree.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MinimalistTree\MinimalistTree\obj\Debug\MinimalistTree.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MinimalistTree\MinimalistTree\obj\Debug\MinimalistTree.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\MinimalistTree\MinimalistTree\obj\Debug\MinimalistTree.pdb

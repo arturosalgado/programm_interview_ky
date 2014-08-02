@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestPalindromeInString\LargestPalindromeInString\bin\Debug\LargestPalindromeInString.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestPalindromeInString\LargestPalindromeInString\bin\Debug\LargestPalindromeInString.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestPalindromeInString\LargestPalindromeInString\bin\Debug\LargestPalindromeInString.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestPalindromeInString\LargestPalindromeInString\obj\Debug\LargestPalindromeInString.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestPalindromeInString\LargestPalindromeInString\obj\Debug\LargestPalindromeInString.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestPalindromeInString\LargestPalindromeInString\obj\Debug\LargestPalindromeInString.pdb

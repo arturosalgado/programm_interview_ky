@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.pdb

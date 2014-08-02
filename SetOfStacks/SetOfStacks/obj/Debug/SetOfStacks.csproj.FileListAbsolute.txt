@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SetOfStacks\SetOfStacks\bin\Debug\SetOfStacks.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SetOfStacks\SetOfStacks\bin\Debug\SetOfStacks.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SetOfStacks\SetOfStacks\bin\Debug\SetOfStacks.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SetOfStacks\SetOfStacks\obj\Debug\SetOfStacks.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SetOfStacks\SetOfStacks\obj\Debug\SetOfStacks.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SetOfStacks\SetOfStacks\obj\Debug\SetOfStacks.pdb

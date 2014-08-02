@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BalancePoint\BalancePoint\bin\Debug\BalancePoint.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BalancePoint\BalancePoint\bin\Debug\BalancePoint.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BalancePoint\BalancePoint\bin\Debug\BalancePoint.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BalancePoint\BalancePoint\obj\Debug\BalancePoint.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BalancePoint\BalancePoint\obj\Debug\BalancePoint.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BalancePoint\BalancePoint\obj\Debug\BalancePoint.pdb

@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KadanesAlgorithm\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KadanesAlgorithm\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KadanesAlgorithm\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KadanesAlgorithm\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KadanesAlgorithm\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\KadanesAlgorithm\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.pdb

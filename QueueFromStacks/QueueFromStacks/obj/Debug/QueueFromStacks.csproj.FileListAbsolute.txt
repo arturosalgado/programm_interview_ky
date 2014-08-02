@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\QueueFromStacks\QueueFromStacks\bin\Debug\QueueFromStacks.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\QueueFromStacks\QueueFromStacks\bin\Debug\QueueFromStacks.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\QueueFromStacks\QueueFromStacks\bin\Debug\QueueFromStacks.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\QueueFromStacks\QueueFromStacks\obj\Debug\QueueFromStacks.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\QueueFromStacks\QueueFromStacks\obj\Debug\QueueFromStacks.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\QueueFromStacks\QueueFromStacks\obj\Debug\QueueFromStacks.pdb

@@ -1,0 +1,5 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SortStack\SortStack\bin\Debug\SortStack.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SortStack\SortStack\bin\Debug\SortStack.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SortStack\SortStack\bin\Debug\SortStack.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SortStack\SortStack\obj\Debug\SortStack.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\SortStack\SortStack\obj\Debug\SortStack.pdb
