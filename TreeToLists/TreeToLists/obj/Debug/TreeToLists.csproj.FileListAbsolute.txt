@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TreeToLists\TreeToLists\bin\Debug\TreeToLists.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TreeToLists\TreeToLists\bin\Debug\TreeToLists.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TreeToLists\TreeToLists\bin\Debug\TreeToLists.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TreeToLists\TreeToLists\obj\Debug\TreeToLists.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TreeToLists\TreeToLists\obj\Debug\TreeToLists.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\TreeToLists\TreeToLists\obj\Debug\TreeToLists.pdb

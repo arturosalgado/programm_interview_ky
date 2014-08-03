@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinaryTreeToLists\BinaryTreeToLists\bin\Debug\BinaryTreeToLists.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinaryTreeToLists\BinaryTreeToLists\bin\Debug\BinaryTreeToLists.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinaryTreeToLists\BinaryTreeToLists\bin\Debug\BinaryTreeToLists.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinaryTreeToLists\BinaryTreeToLists\obj\Debug\BinaryTreeToLists.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinaryTreeToLists\BinaryTreeToLists\obj\Debug\BinaryTreeToLists.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\BinaryTreeToLists\BinaryTreeToLists\obj\Debug\BinaryTreeToLists.pdb

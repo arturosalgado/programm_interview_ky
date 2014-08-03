@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CheckIfTreeIsBinaryTree\CheckIfTreeIsBinaryTree\bin\Debug\CheckIfTreeIsBinaryTree.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CheckIfTreeIsBinaryTree\CheckIfTreeIsBinaryTree\obj\Debug\CheckIfTreeIsBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CheckIfTreeIsBinaryTree\CheckIfTreeIsBinaryTree\bin\Debug\CheckIfTreeIsBinaryTree.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CheckIfTreeIsBinaryTree\CheckIfTreeIsBinaryTree\bin\Debug\CheckIfTreeIsBinaryTree.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CheckIfTreeIsBinaryTree\CheckIfTreeIsBinaryTree\obj\Debug\CheckIfTreeIsBinaryTree.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\CheckIfTreeIsBinaryTree\CheckIfTreeIsBinaryTree\obj\Debug\CheckIfTreeIsBinaryTree.pdb
