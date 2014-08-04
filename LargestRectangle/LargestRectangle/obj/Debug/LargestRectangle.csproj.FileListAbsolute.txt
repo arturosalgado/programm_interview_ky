@@ -1,0 +1,6 @@
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestRectangle\LargestRectangle\bin\Debug\LargestRectangle.exe.config
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestRectangle\LargestRectangle\bin\Debug\LargestRectangle.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestRectangle\LargestRectangle\bin\Debug\LargestRectangle.pdb
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestRectangle\LargestRectangle\obj\Debug\LargestRectangle.csprojResolveAssemblyReference.cache
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestRectangle\LargestRectangle\obj\Debug\LargestRectangle.exe
+C:\Users\joangeles\Documents\Visual Studio 2012\Projects\LargestRectangle\LargestRectangle\obj\Debug\LargestRectangle.pdb
